@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\DatabaseFirstApproach\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36845B73-D476-4C34-9A68-E6D1EA8D5B3F}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\ahmed\\source\\repos\\databasefirstapproach\\databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36845B73-D476-4C34-9A68-E6D1EA8D5B3F}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36845B73-D476-4C34-9A68-E6D1EA8D5B3F}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\ahmed\\source\\repos\\databasefirstapproach\\databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36845B73-D476-4C34-9A68-E6D1EA8D5B3F}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DatabaseFirstApproach\\DatabaseFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DatabaseFirstApproach\\DatabaseFirstApproach\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:25:12.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DatabaseFirstApproach\\DatabaseFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DatabaseFirstApproach\\DatabaseFirstApproach\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T00:25:49.789Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
